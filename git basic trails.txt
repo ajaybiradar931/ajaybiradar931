@@ -1,0 +1,3 @@
+git project 01 basis understanding
+
+2nd day of learning git bash learning push
